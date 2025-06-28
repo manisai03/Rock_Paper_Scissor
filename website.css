@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    background-color:rgb(25,25,25);
+    font-weight: bold;
+    color: white;
+}
+.Hi{
+    border-radius: 70px;
+    border: 3px solid white;
+    background-color: transparent;
+    margin-right: 30px;
+    padding: 8px;
+    cursor: pointer;
+    color: white;
+}
